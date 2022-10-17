@@ -1,5 +1,5 @@
-# PC2_Tugas3_nim
-### Nama
+# PC2_Tugas3_201401144
+### Kevin Wijaya
 ### PC 2
 
 
